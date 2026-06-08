@@ -1,4 +1,4 @@
-# primetrade-sentiment-analysis
+# Primetrade-sentiment-analysis
 # Bitcoin Market Sentiment and Trader Performance Analysis
 
 ## Objective
